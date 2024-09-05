@@ -38,8 +38,6 @@ https://mega.nz/file/sjcynYJL#uWVmgXfY37b6DGhEKH643pAtTAn6qIeetGVGgZ9lfa0
 - Защита данных и системы: **Firewall, IDS/IPS**, шифрование, контроль доступа.
 - Управление антивирусами, настройка и поддержка VPN для удаленной работы.
 
-![Сертификат CompTIA Security+]([path/to/security_certificate.jpg](https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logosecurityplus.svg?sfvrsn=c1041be7_2))
-
 ---
 
 ## 6. Мониторинг и резервное копирование
