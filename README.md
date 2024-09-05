@@ -76,8 +76,10 @@ def backup_files(source_dir, backup_dir):
 source = "/path/to/source"
 backup = "/path/to/backup"
 backup_files(source, backup)
+```
 
-## salom
-
+9. Базы данных
+Основы работы с базами данных: MySQL, PostgreSQL, MSSQL.
+Настройка и поддержка серверов баз данных, выполнение резервного копирования и восстановления данных.
 
 
