@@ -77,9 +77,16 @@ source = "/path/to/source"
 backup = "/path/to/backup"
 backup_files(source, backup)
 ```
+---
 
 ## 9. Базы данных
 Основы работы с базами данных: **MySQL, PostgreSQL, MSSQL**.
 Настройка и поддержка серверов баз данных, выполнение резервного копирования и восстановления данных.
+
+---
+
+## 10. Сертификация
+Получение ключевых сертификатов для подтверждения знаний:
+**CompTIA A+, Network+, Security+, Cisco CCNA, Microsoft Certified**: Azure Administrator.
 
 
