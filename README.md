@@ -8,7 +8,7 @@ https://mega.nz/file/sjcynYJL#uWVmgXfY37b6DGhEKH643pAtTAn6qIeetGVGgZ9lfa0
 - **Windows Server / Linux / macOS**: Понимание различных операционных систем, их установки, конфигурирования и управления ими.
   - Изучите командную строку (CLI) в Linux (Bash) и PowerShell в Windows.
   
-![Архитектура ОС](path/to/image.jpg)
+![Архитектура ОС](Bolywar12/logo.png)
 
 ---
 
