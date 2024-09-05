@@ -52,7 +52,7 @@ https://mega.nz/file/sjcynYJL#uWVmgXfY37b6DGhEKH643pAtTAn6qIeetGVGgZ9lfa0
 - Работа с виртуализацией: **VMware, Hyper-V, KVM**.
 - Понимание облачных платформ: **AWS, Azure, Google Cloud**.
 
-![Облачная инфраструктура](path/to/cloud_image.jpg)
+![Облачная инфраструктура](36d7744e250b7bb9fb49c3da0bf6e9c7.jpg)
 
 ---
 
