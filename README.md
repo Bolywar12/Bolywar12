@@ -44,7 +44,7 @@ https://mega.nz/file/sjcynYJL#uWVmgXfY37b6DGhEKH643pAtTAn6qIeetGVGgZ9lfa0
 - Инструменты мониторинга систем и сетей: **Nagios, Zabbix, Prometheus**.
 - Понимание процедур резервного копирования и восстановления данных (Backup и Restore).
 
-![Система резервного копирования](path/to/backup_image.jpg)
+![Система резервного копирования](SwLk1I68OsE.jpg)
 
 ---
 
