@@ -22,7 +22,7 @@ https://mega.nz/file/sjcynYJL#uWVmgXfY37b6DGhEKH643pAtTAn6qIeetGVGgZ9lfa0
 - Основы сетевого взаимодействия: **TCP/IP, DNS, DHCP, NAT**.
 - Настройка маршрутизаторов и коммутаторов, VLAN, VPN, Firewalls.
 
-![Схема сети с VLAN](path/to/vlan_image.jpg)
+![Схема сети с VLAN](sxema-500x380.png)
 
 ---
 
