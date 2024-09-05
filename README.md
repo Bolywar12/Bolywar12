@@ -30,7 +30,7 @@ https://mega.nz/file/sjcynYJL#uWVmgXfY37b6DGhEKH643pAtTAn6qIeetGVGgZ9lfa0
 - Основные сетевые протоколы: **HTTP/HTTPS, FTP, SSH, SNMP**.
 - Знание работы серверов: **Web-серверы (Apache, Nginx)**, почтовые серверы (Postfix, Exchange), DNS-серверы.
 
-![Работа веб-сервера](path/to/web_server_diagram.jpg)
+![Работа веб-сервера](image006.png)
 
 ---
 
