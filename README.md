@@ -1,4 +1,4 @@
-
+S
 ## Mega_LearnSys
 https://mega.nz/file/sjcynYJL#uWVmgXfY37b6DGhEKH643pAtTAn6qIeetGVGgZ9lfa0
 
@@ -75,8 +75,7 @@ def backup_files(source_dir, backup_dir):
 
 source = "/path/to/source"
 backup = "/path/to/backup"
-backup_files(source, backup)
-
+backup_files(source, backup) ```
 
 # salom
 
