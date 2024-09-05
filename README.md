@@ -1,6 +1,3 @@
-S
-## Mega_LearnSys
-https://mega.nz/file/sjcynYJL#uWVmgXfY37b6DGhEKH643pAtTAn6qIeetGVGgZ9lfa0
 
 # Основные понятия для системного администратора
 
@@ -86,5 +83,10 @@ backup_files(source, backup)
 ## 10. Сертификация
 Получение ключевых сертификатов для подтверждения знаний:
 **CompTIA A+, Network+, Security+, Cisco CCNA, Microsoft Certified**: Azure Administrator.
+
+---
+
+## Mega_LearnSys
+https://mega.nz/file/sjcynYJL#uWVmgXfY37b6DGhEKH643pAtTAn6qIeetGVGgZ9lfa0
 
 
