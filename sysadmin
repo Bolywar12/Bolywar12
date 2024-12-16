@@ -1,0 +1,109 @@
+## Zamonaviy Tizim Administratori: Bilim va Ko‘nikmalar
+
+Bugungi kunda tizim va tarmoq administratorlaridan (sysadmin) zamonaviy texnologiyalarni boshqarish, xavfsizlik talablariga moslashish va tarmoqlarni samarali boshqarish bo‘yicha keng ko‘nikmalar talab qilinadi. Ushbu hujjatda zamonaviy sysadmin bilishi kerak bo‘lgan sohalar va asosiy talablar yoritiladi.
+
+---
+
+### **1. Tizim va Tarmoq Asoslari**
+
+#### **Operatsion Tizimlar:**
+Sysadmin operatsion tizimlar haqida chuqur bilimga ega bo‘lishi lozim:
+- **Windows Server:** Active Directory, Group Policy va server boshqaruvi.
+- **Linux:** Red Hat, Ubuntu, CentOS kabi distributivlar.
+- **macOS:** Mac-larni tarmoq va xavfsizlik muhitida boshqarish.
+
+#### **Tarmoq Asoslari:**
+Sysadmin tarmoqning asosiy tushunchalarini bilishi kerak:
+- **Protokollar:** TCP/IP, DHCP, DNS, NAT, VPN.
+- **Subnetlash:** Tarmoqni segmentlash va IP-manzillarni boshqarish.
+- **Uskunalar:** Routerlar, switchlar, access pointlar bilan ishlash.
+
+---
+
+### **2. Xavfsizlik Bilimlari**
+
+#### **Tarmoq Xavfsizligi:**
+- **Firewallback sozlash:** Tarmoqga kirishni boshqarish va himoya qilish.
+- **IDS/IPS:** Xavfsizlik buzilishlarini aniqlash va oldini olish.
+- **VPN:** Xavfsiz ulanishlarni ta'minlash.
+
+#### **Ma'lumot Xavfsizligi:**
+- Zaxiralash (backup) strategiyalarini ishlab chiqish va amalga oshirish.
+- Antivirus va endpoint himoyasi dasturlari bilan ishlash.
+
+#### **Kibertahdidlar:**
+- Ransomware, phishing va DDoS hujumlariga qarshi chora-tadbirlarni amalga oshirish.
+
+---
+
+### **3. Tashkiliy Xizmatlar va Dasturlar**
+
+#### **Serverlar Bilan Ishlash:**
+- **Active Directory:** Foydalanuvchilarni boshqarish.
+- **Mail-serverlar:** Exchange, Postfix va boshqa email xizmatlari.
+- **Web-serverlar:** IIS, Apache, Nginx bilan ishlash.
+
+#### **Virtualizatsiya va Bulut Xizmatlari:**
+- **Virtualizatsiya:** Hyper-V, VMware orqali serverlarni boshqarish.
+- **Bulut Xizmatlari:** AWS, Azure, Google Cloud bilan ishlash.
+
+#### **Avtomatlashtirish Vositalari:**
+- Ansible, Puppet, Chef orqali tizimlarni boshqarish va avtomatlashtirish.
+
+---
+
+### **4. Dasturlash va Avtomatlashtirish**
+
+#### **Kod Yozish Ko‘nikmalari:**
+Sysadminning asosiy avtomatlashtirish vositalari:
+- **Python:** Tarmoq va tizimni boshqarish.
+- **PowerShell yoki Bash:** Operatsion tizimlarni skriptlash va avtomatlashtirish.
+
+#### **DevOps Asoslari:**
+- CI/CD tushunchalari va vositalarini bilish.
+- Docker va Kubernetes bilan ishlash.
+
+#### **Monitoring va Loglarni Tahlil Qilish:**
+- Zabbix, Nagios yoki Grafana orqali tarmoq monitoringi.
+- Loglarni tahlil qilish (Syslog, Kibana).
+
+---
+
+### **5. Texnik Yordam va Muammo Bartaraf Qilish**
+- **Diagnostika:** Tizim va tarmoqdagi muammolarni tezkor aniqlash.
+- **Foydalanuvchilarni qo‘llab-quvvatlash:** Texnik yordam ko‘rsatish.
+- **Hardware muammolari:** Kompyuter komponentlarini diagnostika qilish va ta‘mirlash.
+
+---
+
+### **6. Yumshoq Ko‘nikmalar (Soft Skills)**
+
+#### **Aloqa va Muomala:**
+- Texnik bo‘lmagan xodimlarga murakkab texnologiyalarni tushuntirish.
+- Jamoa bilan samarali ishlash.
+
+#### **Muammo Hal Qilish:**
+- Tezkor va mantiqiy tahlil qilish ko‘nikmasi.
+
+#### **Doimiy Rivojlanish:**
+- Yangi texnologiyalarni o‘rganishga tayyorlik.
+
+---
+
+### **Sysadmin uchun Asosiy Talablar**
+1. **Barqarorlikni Ta‘minlash:** Tizimlarning doimiy ishlashini ta'minlash.
+2. **Xavfsizlikka E‘tibor:** Tarmoq va ma‘lumotlarni himoyalash.
+3. **Rejalashtirish:** Resurslarni samarali boshqarish.
+4. **24/7 Javobgarlik:** Favqulodda holatlarda tezkor reaksiya.
+
+#### **Tavsiya Etilgan Sertifikatlar:**
+- CompTIA Network+, Security+, Server+.
+- Microsoft (MCSA, MCSE).
+- Cisco (CCNA, CCNP).
+- Linux Foundation Certified System Administrator (LFCS).
+
+---
+
+### **Xulosa**
+Bugungi sysadmin texnik bilimlarni va zamonaviy vositalarni bilishi bilan birga, xavfsizlik, avtomatlashtirish va rivojlanayotgan texnologiyalarga moslashish qobiliyatiga ega bo‘lishi zarur. Doimiy o‘qish va tajriba orttirish ushbu sohadagi muvaffaqiyatning asosidir.
+
