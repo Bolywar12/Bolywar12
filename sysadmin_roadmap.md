@@ -107,3 +107,91 @@
   - "Sysadmin yo'li haqida istalgan savolingizni so'rashingiz mumkin."
 - **Rasm:** Do'stona IT yordami ko'rsatayotgan professional.
 
+---
+### Sistema va Tarmoq Administratoridan Bugungi Kunda Talab Qilinadigan Bilimlar va Sertifikatlarni Egallash Bosqichlari
+
+**1. Asosiy bilimlar va tushunchalar:**
+   - **Operatsion tizimlar:**
+     - Windows Server (Active Directory, Group Policy, DNS, DHCP, Hyper-V).
+     - Linux distributivlari (Ubuntu, CentOS, Red Hat, Debian).
+   - **Tarmoq asoslari:**
+     - OSI modeli va TCP/IP protokollari.
+     - Tarmoq uskunalari (router, switch, firewall).
+     - IP addressing va subnetting.
+   - **Virtualizatsiya va bulut xizmatlari:**
+     - VMware, Proxmox, va Hyper-V platformalari.
+     - Cloud xizmatlari: AWS, Azure, va Google Cloud Platform (GCP).
+   - **Ma’lumotlar xavfsizligi:**
+     - Firewall sozlash va IDS/IPS tizimlari.
+     - SSL/TLS, VPN va NAT tushunchalari.
+   - **Zaxira va tiklash:**
+     - Backup strategiyalari (Full, Incremental, Differential).
+     - DRP (Disaster Recovery Plan) yaratish.
+
+**2. Zarur sertifikatlar va ular uchun tayyorgarlik bosqichlari:**
+   - **CompTIA**:
+     - *A+*: Umumiy IT bilimlari.
+     - *Network+*: Tarmoq asoslari.
+     - *Security+*: Axborot xavfsizligi.
+     
+     **Bosqichlari:**
+     1. Rasmiy o’quv qo’llanmalardan o’qish.
+     2. Lab amaliyotlarini bajarish.
+     3. Test savollari va simulyatsiyalarda ishtirok etish.
+
+   - **Microsoft (Windows muhitida ishlash uchun):**
+     - *Microsoft Certified: Azure Administrator Associate.*
+     - *Microsoft Certified: Windows Server Hybrid Administrator Associate.*
+
+     **Bosqichlari:**
+     1. O‘rnatilgan serverlarni boshqarish bo‘yicha amaliyot.
+     2. Azure’da virtual mashinalar va tarmoqlar bilan ishlash.
+
+   - **Cisco (Tarmoq muhandisligi uchun):**
+     - *CCNA (Cisco Certified Network Associate).*  
+     - *CCNP (Cisco Certified Network Professional).*
+
+     **Bosqichlari:**
+     1. Packet Tracer yoki GNS3 vositalarida laboratoriya ishlarini bajarish.
+     2. IOS (Cisco OS) komandalarini chuqur o‘rganish.
+
+   - **Linux uchun:**
+     - *RHCSA (Red Hat Certified System Administrator).*
+     - *LFCS (Linux Foundation Certified System Administrator).*
+
+     **Bosqichlari:**
+     1. Terminal va komandalarda ishlash.
+     2. Shell skriptlar yozish amaliyotini bajarish.
+
+   - **Bulut sertifikatlari:**
+     - *AWS Certified Solutions Architect - Associate.*
+     - *Google Cloud Professional Cloud Architect.*
+     - *Microsoft Certified: Azure Solutions Architect Expert.*
+
+     **Bosqichlari:**
+     1. Virtual muhitda (sandbox) xizmatlarni sozlash va sinovdan o‘tkazish.
+     2. Real loyihalar ustida ishlash.
+
+**3. Amaliyot bosqichlari:**
+   - **Real dunyo muammolarini hal qilish:**
+     - Tarmoq va server xatoliklarini aniqlash va tuzatish.
+     - Virtualizatsiya muhitlarida muammolarni hal qilish.
+     - Monitoring xizmatlari (Zabbix, Nagios, Prometheus) bilan ishlash.
+   - **Dokumentatsiya:**
+     - Ish jarayonlarini yozma ravishda hujjatlashtirish.
+     - Har bir o‘zgarishni qayd etish va tasdiqlash.
+
+**4. O’quv va tajriba olish platformalari:**
+   - Udemy, Coursera, Pluralsight kabi o‘quv platformalari.
+   - Boshsahifalardagi laboratoriyalar: Cisco Packet Tracer, AWS Free Tier.
+   - Ochiq manba resurslar va o‘yinlar (TryHackMe, Hack The Box).
+
+**5. Rivojlanishni qo’llab-quvvatlovchi qo’shimcha ko’nikmalar:**
+   - *Avtomatlashtirish:* Python, PowerShell, va Bash skript yozish.
+   - *Versiya nazorati:* Git va GitHub.
+   - *Soft skills:* Jamoada ishlash, mijozlar bilan muloqot.
+
+Mazkur bilimlar va sertifikatlarni egallash sistema va tarmoq administratorining bozor talablari va texnologiyalarni chuqurroq o‘zlashtirishiga yordam beradi.
+
+
+
